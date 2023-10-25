@@ -1,6 +1,6 @@
 # Monte Carlo Elicitation
 This repository contains the code for Monte Carlo Elicitation experiments.
-We have borrowed the Polytope.py from https://github.com/federicotoffano/SMMR and minimax 
+We have borrowed the Polytope.py and Utils.py from https://github.com/federicotoffano/SMMR and minimax 
 implementations with linear programming. 
 ## Install the dependencies
 
