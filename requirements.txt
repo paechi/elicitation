@@ -1,0 +1,4 @@
+pycddlib==2.1.6
+diversipy
+gurobipy==10.0.2
+numpy==1.25.1
